@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/echo-emergent/static/js/main.f760304c.js",
+    "index.html": "/echo-emergent/index.html",
+    "main.f760304c.js.map": "/echo-emergent/static/js/main.f760304c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f760304c.js"
+  ]
+}

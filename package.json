@@ -5,7 +5,7 @@
   "homepage": "https://marcolesci.github.io/echo-emergent",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcolesci/echo-emergent.git"
+    "url": "https://github.com/MarcoLSC/echo-emergent.git"
   },
   "type": "module",
   "scripts": {
